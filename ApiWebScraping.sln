@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWebScraping", "ApiWebScraping\ApiWebScraping.csproj", "{3FB797EE-85DC-4E15-AC11-F9ECDEC83982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{273D210A-E420-4F44-A454-B5BE6270A63D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FB797EE-85DC-4E15-AC11-F9ECDEC83982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB797EE-85DC-4E15-AC11-F9ECDEC83982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB797EE-85DC-4E15-AC11-F9ECDEC83982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB797EE-85DC-4E15-AC11-F9ECDEC83982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273D210A-E420-4F44-A454-B5BE6270A63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273D210A-E420-4F44-A454-B5BE6270A63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273D210A-E420-4F44-A454-B5BE6270A63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273D210A-E420-4F44-A454-B5BE6270A63D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B00526E7-77FB-41B8-A142-6EDA2854C495}
+	EndGlobalSection
+EndGlobal
