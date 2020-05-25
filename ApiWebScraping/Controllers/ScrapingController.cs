@@ -33,6 +33,7 @@ namespace ApiWebScraping.Controllers
 
         }
 
+        //TODO: Retornar todos os valores do perfil
         [HttpGet("[action]")]
         public ActionResult GetContentGitHub([FromBody] ScrapingParameters parameters)
         {
